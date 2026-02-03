@@ -18,5 +18,5 @@ What i will NOT be doing
 3. Installing apps into the OS that some people don't need
 4. Fixing bugs that Microslop made
 
-You can post your suggestions on this github page.
+You can post your suggestions on this gitea page.
 I will not reply to suggestions i specified i won't be doing.

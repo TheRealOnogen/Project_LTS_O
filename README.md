@@ -1,4 +1,5 @@
 WARNING: To boot in qemu on legacy bios you need to put the image first and then the drive you're gonna be installing to
+WARNING: The drive you're installing it to must be 64GiB or larger, smaller drives may not work
 
 Windows 11/10 LTS O is a custom build of Windows
 

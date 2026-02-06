@@ -29,3 +29,22 @@ Tools used:
 Ventoy
 Rescuezilla 
 win11debloat
+
+What is Arch LTS O?
+
+Arch LTS O is a custom Arch based distro, it has all the essentials and is meant to be arch for people whow want an easy install, it is not bloated, it includes
+
+1. Nano
+2. Ly
+3. KDE Plasma
+4. Firefox and Konsole
+5. NetworkManager
+6. iwd and dhcpcd (not enabled, there for people who wanna use shell with wifi)
+7. Grub Bootloader
+
+What i will NOT be doing
+
+1. Making builds for specific people
+2. Making LTS O builds of other distros
+3. Fixing bugs in the kernel
+4. Installing random packages

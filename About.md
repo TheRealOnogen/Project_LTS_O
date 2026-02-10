@@ -1,4 +1,4 @@
-About Project LTS O
+# About Project LTS O
 
 Peoject LTS O is a project that aims to be the best in compatibility, cleanliness and light, it includes
 

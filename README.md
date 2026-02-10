@@ -31,7 +31,7 @@ To boot in **qemu on legacy bios** you need to put the **image first** and then 
 3. Installing apps into the OS that some people don't need
 4. Fixing bugs that Microslop made
 
-You can post your suggestions on this github's issuesYou can post your suggestions on this github's [issues tab(https://github.com/TheRealOnogen/ltso/issues).
+You can post your suggestions on this github's issuesYou can post your suggestions on this github's [issues tab](https://github.com/TheRealOnogen/Project_LTS_O/issues).
 I will not reply to suggestions i specified i won't be doing.
 
 # Tools used:

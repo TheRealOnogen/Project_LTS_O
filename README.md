@@ -8,7 +8,7 @@ Once you boot into the OS, your partition may be smaller than your drive, you ne
 1. Boot from the img
 2. Press restore
 3. Select the partition named Ventoy
-4. Select `Windows-XX(10 or 11)-LTS-O-(UEFI/Legacy)` or `(Distro)-LTS-O-(UEFI/Legacy) for linux
+4. Select `Windows-XX(10 or 11)-LTS-O-(UEFI/Legacy)` or `(Distro)-LTS-O-(UEFI/Legacy)` for linux
 5. Select your drive 
 
 # About OSes
@@ -56,7 +56,7 @@ Arch LTS O is a custom Arch based distro, it has all the essentials and is meant
 
 # What i will NOT be doing
 
-1. Making builds for specific people
+1. Making builds for specific people (except if LTS O builds of a specific architecture, depends tho)
 2. Making LTS O builds of other distros
 3. Fixing bugs in the kernel
 4. Installing random packages

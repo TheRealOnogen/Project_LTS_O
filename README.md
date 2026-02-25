@@ -49,7 +49,7 @@ Debian:
 1. Boot from the img
 2. Press restore
 3. Select the partition named Ventoy
-4. Select `Windows-XX(10 or 11)-LTS-O-(UEFI/Legacy)` or (Distro)-LTS-O-(UEFI/Legacy) for linux
+4. Select `Windows-XX(10 or 11)-LTS-O-(UEFI/Legacy)` or `(Distro)-LTS-O-(UEFI/Legacy)` for linux
 5. Select your drive 
 
 # About OSes

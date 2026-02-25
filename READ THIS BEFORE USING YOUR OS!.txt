@@ -1,0 +1,5 @@
+This OS is a drive image that was copied onto your drive using Rescuezilla, before downloading anything expand your OS's partition size, you can still use the OS but you WILL have less space available
+
+How to create a new user
+
+sudo useradd -mG wheel <username>

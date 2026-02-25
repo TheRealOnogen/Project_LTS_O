@@ -83,9 +83,9 @@ I will not reply to suggestions i specified i won't be doing.
 2. Rescuezilla 
 3. win11debloat
 
-# What is Arch LTS O?
+# What is Linux LTS O?
 
-Arch LTS O is a custom Arch based distro, it has all the essentials and is meant to be arch for people whow want an easy install, it is not bloated, it includes
+Linux LTS O is a seiries of custom distros, they have all the essentials and is meant to be for people whow want an easy install, not bloated, it include
 
 1. Nano
 2. Ly (sddm on alpine)
@@ -98,6 +98,5 @@ Arch LTS O is a custom Arch based distro, it has all the essentials and is meant
 # What i will NOT be doing
 
 1. Making builds for specific people (except if LTS O builds of a specific architecture, depends tho)
-2. Making LTS O builds of other distros
-3. Fixing bugs in the kernel
-4. Installing random packages
+2. Fixing bugs in the kernel
+3. Installing random packages

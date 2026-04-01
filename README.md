@@ -58,7 +58,7 @@ I will not reply to suggestions i specified i won't be doing.
 
 # What is Linux LTS O?
 
-Linux LTS O is a seiries of custom distros, they have all the essentials and is meant to be for people whow want an easy install, not bloated, it include
+Linux LTS O is a series of custom distros, they have all the essentials and is meant to be for people whow want an easy install, not bloated, it include
 
 1. Nano
 2. Ly (sddm on alpine)

@@ -16,6 +16,7 @@ Once you boot into the OS, your partition may be smaller than your drive, you ne
 11. chroot /mnt
 12. grub-install --target=i386-pc /dev/(your drive) (or grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=GRUB if using uefi)
 13. grub-mkconfig -o /boot/grub/grub.cfg
+Note: for fedora it's grub2, not just grub
 
 # How to install
 

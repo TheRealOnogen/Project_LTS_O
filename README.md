@@ -1,3 +1,4 @@
+<img src="LTS_O/contents/screenshot.png" width="1000">
 # WARNING: 
 To boot in **qemu on legacy bios** you need to put the **image first** and then the drive you're gonna be installing to and the drive you're installing it to must be **64GiB or larger** (20GiB or larger for linux), smaller drives may not work
 # WARNING:
